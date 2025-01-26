@@ -2,7 +2,7 @@
 
 ## Please do not log in to your account!
 
-Unlock immersive-translate oil monkey script (local members, cannot use member to translate api)
+Unlock immersive-translate userscript (local members, cannot use member to translate api)
 
 ![ Image](https://github.com/user-attachments/assets/08d256a7-885c-4a76-81b6-59acc86a9784)
 
